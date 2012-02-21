@@ -1,0 +1,9 @@
+Enables calculation of Surface Accessible Solvent Area (SASA) using the LOOS package (http://loos.sourceforge.net/).
+
+To use, the files must be copied into LOOS, appropriate changes make to the installation scripts and LOOS recompiled.
+
+I'm posting them here, mostly so they don't get lost before they are integrated into LOOS.
+
+These files (except MersenneTwister.hpp) were written by Ben Reynwar in 2012, and copyright has been assigned to Alan Grossfield.
+
+They are released under a GPL3 license.
